@@ -1,0 +1,6 @@
+item,cost,qty,expires,reorder
+salami,0.25,120,2026-12-05,30
+prosciutto,0.6,48,2026-11-24,12
+brie,0.75,40,2026-11-21,16
+grapes,0.05,150,2026-11-19,40
+crackers,0.1,200,2027-01-15,50
